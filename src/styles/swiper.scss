@@ -1,0 +1,60 @@
+.swiper {
+    .swiper-button-prev,
+    .swiper-button-next {
+      width: 30px;
+      height: 30px;
+      color: var(--chakra-colors-brand);
+  
+      transition: filter 0.2s linear;
+  
+      &:hover {
+        filter: brightness(0.8);
+      }
+  
+      &::after {
+        font-size: 20px;
+  
+        @media (min-width: 30em) {
+          font-size: 25px;
+        }
+  
+        @media (min-width: 40em) {
+          font-size: 30px;
+        }
+      }
+  
+      @media (min-width: 30em) {
+        width: 45px;
+        height: 45px;
+      }
+  
+      @media (min-width: 40em) {
+        width: 60px;
+        height: 60px;
+      }
+    }
+  
+    .swiper-pagination-bullet {
+      width: 8px;
+      height: 8px;
+      background-color: var(--chakra-colors-gray-700);
+      opacity: 0.9;
+  
+      transition: filter 0.2s linear;
+  
+      &:not(.swiper-pagination-bullet-active):hover {
+        filter: brightness(0.8);
+      }
+  
+      &.swiper-pagination-bullet-active {
+        background-color: var(--chakra-colors-brand);
+        opacity: 1;
+      }
+  
+      @media (min-width: 40em) {
+        width: 12px;
+        height: 12px;
+      }
+    }
+  }
+  

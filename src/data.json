@@ -1,0 +1,759 @@
+[
+    {
+      "slug": "europe",
+      "heading": "Europa",
+      "description": "O continente mais antigo.",
+      "banner": "https://images.unsplash.com/photo-1473951574080-01fe45ec8643?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80",
+      "sliderBanner": "https://images.unsplash.com/photo-1590309284223-3946577eb10e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1240&q=80",
+      "paragraph": "Apesar de não contar com um território muito extenso, a Europa é um continente que possui grande influência social e cultural nos demais continentes, afinal foi lá que surgiram os principais idiomas falados ao redor do mundo. O continente, que é banhado pelo oceano  Atlântico e Glacial Ártico, conta com 50 países e mais de 700 milhões de habitantes, além de ter parte de seu território marcada pela linha imaginária do Meridiano de Greenwich, que divide nos hemisférios oriental e ocidental.",
+      "countriesAmount": 50,
+      "languagesAmount": 60,
+      "cities": [
+        {
+          "label": "Londres",
+          "image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "GB",
+            "label": "Reino Unido"
+          }
+        },
+        {
+          "label": "Paris",
+          "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "FR",
+            "label": "França"
+          }
+        },
+        {
+          "label": "Istambul",
+          "image": "https://images.unsplash.com/photo-1627385184599-bd76f11c6317?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "TR",
+            "label": "Turquia"
+          }
+        },
+        {
+          "label": "Roma",
+          "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "IT",
+            "label": "Itália"
+          }
+        },
+        {
+          "label": "Praga",
+          "image": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "CZ",
+            "label": "República Tcheca"
+          }
+        },
+        {
+          "label": "Amsterdã",
+          "image": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "NL",
+            "label": "Holanda"
+          }
+        },
+        {
+          "label": "Barcelona",
+          "image": "https://images.unsplash.com/photo-1583422409516-2895a77efded?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "ES",
+            "label": "Espanha"
+          }
+        },
+        {
+          "label": "Milão",
+          "image": "https://images.unsplash.com/photo-1610016302534-6f67f1c968d8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "IT",
+            "label": "Itália"
+          }
+        },
+        {
+          "label": "Viena",
+          "image": "https://images.unsplash.com/photo-1567597435927-80055c207c1c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "AT",
+            "label": "Áustria"
+          }
+        },
+        {
+          "label": "Berlim",
+          "image": "https://images.unsplash.com/photo-1546726747-421c6d69c929?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "DE",
+            "label": "Alemanha"
+          }
+        },
+        {
+          "label": "Atenas",
+          "image": "https://images.unsplash.com/photo-1603565816030-6b389eeb23cb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "GR",
+            "label": "Grécia"
+          }
+        },
+        {
+          "label": "Moscou",
+          "image": "https://images.unsplash.com/photo-1547448415-e9f5b28e570d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "RU",
+            "label": "Rússia"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "south-america",
+      "heading": "América do Sul",
+      "description": "O melhor subcontinente.",
+      "banner": "https://images.unsplash.com/photo-1612012539633-1ddf45bff52c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80",
+      "sliderBanner": "https://images.unsplash.com/photo-1619546952812-520e98064a52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1240&q=80",
+      "paragraph": "O turismo na América do Sul é bem variado. Afinal, o continente de mais de 17,8 milhões de km² tem uma grande variedade de paisagens, climas e estilos em cada um dos países que o formam. Por isso, fazer turismo no continente sul-americano agrada a qualquer tipo de viajante, desde aquele que prefere praias de mar azul cristalino a aqueles que buscam paisagens de deserto ou mesmo esquiar na neve. E vale lembrar que os países têm muita história para contar que datam de bem antes da chegada dos conquistadores portugueses e espanhóis ao continente. Por todo território há vestígios da vida dos indígenas e de outras civilizações que moravam na região, como os Incas, além das influências europeias. Tudo isso, aliado às belas paisagens naturais sul-americanas transformaram a região em um grande polo turístico visitado por viajantes de todo o mundo.",
+      "countriesAmount": 13,
+      "languagesAmount": 10,
+      "cities": [
+        {
+          "label": "Buenos Aires",
+          "image": "https://images.unsplash.com/photo-1586354822120-bf910e563cdf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "AR",
+            "label": "Argentina"
+          }
+        },
+        {
+          "label": "Lima",
+          "image": "https://images.unsplash.com/photo-1577587230708-187fdbef4d91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "PE",
+            "label": "Peru"
+          }
+        },
+        {
+          "label": "Rio de Janeiro",
+          "image": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "BR",
+            "label": "Brasil"
+          }
+        },
+        {
+          "label": "Cusco",
+          "image": "https://images.unsplash.com/photo-1533856797653-6f6dbf370efc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "PE",
+            "label": "Peru"
+          }
+        },
+        {
+          "label": "São Paulo",
+          "image": "https://images.pexels.com/photos/97906/pexels-photo-97906.jpeg?auto=compress&cs=tinysrgb&w=300&&dpr=1",
+          "country": {
+            "code": "BR",
+            "label": "Brasil"
+          }
+        },
+        {
+          "label": "Santiago",
+          "image": "https://images.unsplash.com/photo-1597006438013-0f0cca2c1a03?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "CL",
+            "label": "Chile"
+          }
+        },
+        {
+          "label": "Montevidéu",
+          "image": "https://images.pexels.com/photos/9320831/pexels-photo-9320831.jpeg?auto=compress&cs=tinysrgb&w=300&dpr=1",
+          "country": {
+            "code": "UY",
+            "label": "Uruguai"
+          }
+        },
+        {
+          "label": "Cartagena",
+          "image": "https://images.unsplash.com/photo-1583531352515-8884af319dc1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "CO",
+            "label": "Colômbia"
+          }
+        },
+        {
+          "label": "Bogotá",
+          "image": "https://images.unsplash.com/photo-1622432866666-26f106904a19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "CO",
+            "label": "Colômbia"
+          }
+        },
+        {
+          "label": "Salvador",
+          "image": "https://images.unsplash.com/photo-1533241818630-edad657eb3da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "BR",
+            "label": "Brasil"
+          }
+        },
+        {
+          "label": "Florianópolis",
+          "image": "https://images.pexels.com/photos/9499940/pexels-photo-9499940.jpeg?auto=compress&cs=tinysrgb&w=300&dpr=1",
+          "country": {
+            "code": "BR",
+            "label": "Brasil"
+          }
+        },
+        {
+          "label": "Foz do Iguaçu",
+          "image": "https://images.unsplash.com/photo-1575323543893-8ed59cf6d2c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "BR",
+            "label": "Brasil"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "central-america",
+      "heading": "América Central",
+      "description": "O paraíso na Terra.",
+      "banner": "https://images.unsplash.com/photo-1614481095874-249fa1b7a0c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80",
+      "sliderBanner": "https://images.unsplash.com/photo-1611696627004-fb1c5b24f544?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1240&q=80",
+      "paragraph": "O turismo na América Central é cheio de cor, praias paradisíacas e calor praticamente o ano inteiro. Mas, apesar do forte dos países da região, banhados em sua maioria pelo Mar do Caribe, ser as belas praias, a América Central tem mais a oferecer. Com colonizações distintas, os países que formam a América Central têm idiomas, costumes e histórias diferentes. Além do fato de ser dividido em continente e muitas ilhas, sendo a maioria formada por ação vulcânica e outras por barreiras de corais, resultando em paisagens diferentes. A América Central é querida dos viajantes brasileiros e um dos destinos mais frequentados por viajantes de todo o mundo.",
+      "countriesAmount": 20,
+      "languagesAmount": 30,
+      "cities": [
+        {
+          "label": "Antígua",
+          "image": "https://images.pexels.com/photos/8536355/pexels-photo-8536355.jpeg?auto=compress&cs=tinysrgb&w=300&dpr=1",
+          "country": {
+            "code": "GT",
+            "label": "Guatemala"
+          }
+        },
+        {
+          "label": "Copán",
+          "image": "https://images.unsplash.com/photo-1591551963955-9487b4973e84?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "HN",
+            "label": "Honduras"
+          }
+        },
+        {
+          "label": "La Fortuna",
+          "image": "https://images.unsplash.com/photo-1628212093796-af2bb7fdd69e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "CR",
+            "label": "Costa Rica"
+          }
+        },
+        {
+          "label": "Puerto Plata",
+          "image": "https://images.unsplash.com/photo-1611890180199-5be985f8753e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "DO",
+            "label": "República Dominicana"
+          }
+        },
+        {
+          "label": "Varadero",
+          "image": "https://images.unsplash.com/photo-1600467181387-024810c612cb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "CU",
+            "label": "Cuba"
+          }
+        },
+        {
+          "label": "Cidade do Panamá",
+          "image": "https://images.unsplash.com/photo-1540610410855-b4c8877b761c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "PA",
+            "label": "Panamá"
+          }
+        },
+        {
+          "label": "León",
+          "image": "https://images.unsplash.com/photo-1539735016193-2bfc5a8f6699?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "NI",
+            "label": "Nicarágua"
+          }
+        },
+        {
+          "label": "Flores",
+          "image": "https://images.unsplash.com/photo-1544527232-c8738c8cb2cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "GT",
+            "label": "Guatemala"
+          }
+        },
+        {
+          "label": "Tegucigalpa",
+          "image": "https://images.unsplash.com/photo-1610687400070-4a694087f990?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "HN",
+            "label": "Honduras"
+          }
+        },
+        {
+          "label": "Granada",
+          "image": "https://images.unsplash.com/photo-1584904558330-f9772a6778c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "NI",
+            "label": "Nicarágua"
+          }
+        },
+        {
+          "label": "Bocas del Toro",
+          "image": "https://images.unsplash.com/photo-1593881135366-021cb95fd82d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "PA",
+            "label": "Panamá"
+          }
+        },
+        {
+          "label": "Cidade de Belize",
+          "image": "https://images.unsplash.com/photo-1625106170026-eb5cc1c45f04?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "BZ",
+            "label": "Belize"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "north-america",
+      "heading": "América do Norte",
+      "description": "O lugar do capitalismo selvagem.",
+      "banner": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80",
+      "sliderBanner": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1240&q=80",
+      "paragraph": "O turismo na América do Norte é como um grande e variado cardápio. Há opções de cidades urbanas e cosmopolitas, desérticas, nevadas, outras para quem gosta de sossego, de baladas, de parques de diversão, de turismo de aventura. Enfim, a oferta é tão grande quando o tamanho do continente, que tem mais de 27,9 milhões de km². Até por isso, viajar para um dos países da América do Norte, ou para todos, é o sonho de consumo de muitos viajantes de todo o mundo. Tanto que, em qualquer época do ano, é bem fácil ouvir os mais diferentes idiomas e sotaques em qualquer cidade dos países que fazem parte dessa região.",
+      "countriesAmount": 3,
+      "languagesAmount": 4,
+      "cities": [
+        {
+          "label": "Nova Iorque",
+          "image": "https://images.unsplash.com/photo-1582760548598-0bccdf815aa2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "US",
+            "label": "Estados Unidos"
+          }
+        },
+        {
+          "label": "Miami",
+          "image": "https://images.unsplash.com/photo-1589083130544-0d6a2926e519?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "US",
+            "label": "Estados Unidos"
+          }
+        },
+        {
+          "label": "Los Angeles",
+          "image": "https://images.unsplash.com/photo-1580655653885-65763b2597d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "US",
+            "label": "Estados Unidos"
+          }
+        },
+        {
+          "label": "Las Vegas",
+          "image": "https://images.unsplash.com/photo-1600616366660-ba86bf0b3dfc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "US",
+            "label": "Estados Unidos"
+          }
+        },
+        {
+          "label": "Cancún",
+          "image": "https://images.unsplash.com/photo-1510097467424-192d713fd8b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "MX",
+            "label": "México"
+          }
+        },
+        {
+          "label": "Orlando",
+          "image": "https://images.unsplash.com/photo-1551762142-0e2c05535197?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "US",
+            "label": "Estados Unidos"
+          }
+        },
+        {
+          "label": "Toronto",
+          "image": "https://images.unsplash.com/photo-1542704792-e30dac463c90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "CA",
+            "label": "Canadá"
+          }
+        },
+        {
+          "label": "Vancouver",
+          "image": "https://images.unsplash.com/photo-1544161513-0179fe746fd5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "CA",
+            "label": "Canadá"
+          }
+        },
+        {
+          "label": "São Francisco",
+          "image": "https://images.unsplash.com/photo-1503609796759-4cfd4d5a0b9f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "US",
+            "label": "Estados Unidos"
+          }
+        },
+        {
+          "label": "Honolulu",
+          "image": "https://images.unsplash.com/photo-1573992554018-83e7853bd45f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "US",
+            "label": "Estados Unidos"
+          }
+        },
+        {
+          "label": "Ottawa",
+          "image": "https://images.unsplash.com/photo-1587971311160-0d4f417beeb6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "CA",
+            "label": "Canadá"
+          }
+        },
+        {
+          "label": "Guadalajara",
+          "image": "https://images.unsplash.com/photo-1565670105658-ea35d27f7de7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "MX",
+            "label": "México"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "africa",
+      "heading": "África",
+      "description": "A natureza mais selvagem.",
+      "banner": "https://images.unsplash.com/photo-1516426122078-c23e76319801?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80",
+      "sliderBanner": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1240&q=80",
+      "paragraph": "O continente africano é banhado pelo oceano Atlântico e Índico e ainda pelo Mar Mediterrâneo. Além disso, a África é composta por 55 países que abrigam uma enorme variedade climática e cultural com desertos, savanas e florestas. O continente, com mais de um 1 bilhão de habitantes, também é considerado como a terra natal do homo sapiens, segundo os cientistas.",
+      "countriesAmount": 54,
+      "languagesAmount": 50,
+      "cities": [
+        {
+          "label": "Cairo",
+          "image": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "EG",
+            "label": "Egito"
+          }
+        },
+        {
+          "label": "Johanesburgo",
+          "image": "https://images.unsplash.com/photo-1610307766999-01f45d259959?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "ZA",
+            "label": "África do Sul"
+          }
+        },
+        {
+          "label": "Marrakech",
+          "image": "https://images.unsplash.com/photo-1535191198992-fe460a2d0af1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "MA",
+            "label": "Marrocos"
+          }
+        },
+        {
+          "label": "Hurghada",
+          "image": "https://images.unsplash.com/photo-1618582240632-1937f4c91d7d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "EG",
+            "label": "Egito"
+          }
+        },
+        {
+          "label": "Cidade do Cabo",
+          "image": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "ZA",
+            "label": "África do Sul"
+          }
+        },
+        {
+          "label": "Durban",
+          "image": "https://images.unsplash.com/photo-1550761717-d03b44d9cb33?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "ZA",
+            "label": "África do Sul"
+          }
+        },
+        {
+          "label": "Nairóbi",
+          "image": "https://images.unsplash.com/photo-1596005554384-d293674c91d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "KE",
+            "label": "Quênia"
+          }
+        },
+        {
+          "label": "Maputo",
+          "image": "https://images.unsplash.com/photo-1526998758291-f87c4c1a8fff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "MZ",
+            "label": "Moçambique"
+          }
+        },
+        {
+          "label": "Fez",
+          "image": "https://images.unsplash.com/photo-1613169465179-533a5d1ce175?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "MA",
+            "label": "Marrocos"
+          }
+        },
+        {
+          "label": "Porto Luís",
+          "image": "https://images.unsplash.com/photo-1513415277900-a62401e19be4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "MU",
+            "label": "Maurícia"
+          }
+        },
+        {
+          "label": "Essaouira",
+          "image": "https://images.unsplash.com/photo-1624802710884-f7c40598140c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "MA",
+            "label": "Marrocos"
+          }
+        },
+        {
+          "label": "Luanda",
+          "image": "https://images.unsplash.com/photo-1543161949-1f9193812ce8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "AO",
+            "label": "Angola"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "asia",
+      "heading": "Ásia",
+      "description": "O continente mais exótico.",
+      "banner": "https://images.unsplash.com/photo-1557409518-691ebcd96038?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80",
+      "sliderBanner": "https://images.unsplash.com/photo-1464817739973-0128fe77aaa1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1240&q=80",
+      "paragraph": "Considerada o maior continente do mundo, a Ásia abriga quase a metade da população mundial entre seus mais de 4 bilhões de habitantes. Banhado pelos oceanos Glacial Ártico, Pacífico e Índico, o continente asiático possui 48 países, 11 fusos horários diferentes e uma grande pluralidade cultural. A diversidade do continente une tradição e modernidade em sua culinária, arquitetura e hábitos de vida.",
+      "countriesAmount": 50,
+      "languagesAmount": 73,
+      "cities": [
+        {
+          "label": "Hong Kong",
+          "image": "https://images.unsplash.com/photo-1594973782943-3314fe063f68?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "HK",
+            "label": "Hong Kong"
+          }
+        },
+        {
+          "label": "Tóquio",
+          "image": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "JP",
+            "label": "Japão"
+          }
+        },
+        {
+          "label": "Bangkok",
+          "image": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "TH",
+            "label": "Tailândia"
+          }
+        },
+        {
+          "label": "Singapura",
+          "image": "https://images.unsplash.com/photo-1496939376851-89342e90adcd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "SG",
+            "label": "Singapura"
+          }
+        },
+        {
+          "label": "Macau",
+          "image": "https://images.unsplash.com/photo-1628695141670-8d58bc150895?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "MO",
+            "label": "Macau"
+          }
+        },
+        {
+          "label": "Dubai",
+          "image": "https://images.unsplash.com/photo-1617449512807-7401d38e5c29?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "AE",
+            "label": "Emirados Árabes Unidos"
+          }
+        },
+        {
+          "label": "Kuala Lumpur",
+          "image": "https://images.unsplash.com/photo-1581981657871-77c0d8adc84d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "MY",
+            "label": "Malásia"
+          }
+        },
+        {
+          "label": "Delhi",
+          "image": "https://images.unsplash.com/photo-1595928607828-6fdaee9c0942?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "IN",
+            "label": "Índia"
+          }
+        },
+        {
+          "label": "Antalya",
+          "image": "https://images.unsplash.com/photo-1593238739364-18cfde30e522?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "TR",
+            "label": "Turquia"
+          }
+        },
+        {
+          "label": "Shenzhen",
+          "image": "https://images.unsplash.com/photo-1522614288668-a697127e9b21?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "CN",
+            "label": "China"
+          }
+        },
+        {
+          "label": "Mumbai",
+          "image": "https://images.unsplash.com/photo-1569758267239-d08deb78bb1a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "IN",
+            "label": "Índia"
+          }
+        },
+        {
+          "label": "Phuket",
+          "image": "https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "TH",
+            "label": "Tailândia"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "ocenia",
+      "heading": "Oceania",
+      "description": "O continente de praticamente um país só.",
+      "banner": "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80",
+      "sliderBanner": "https://images.unsplash.com/photo-1589330273594-fade1ee91647?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1240&q=80",
+      "paragraph": "A Oceania é considerada o menor continente do mundo e é composta por diversas ilhas de culturas diferentes. Cerca de 90% de seu território é ocupado por um único país: a Austrália. O continente é banhado pelos oceanos Pacífico e Índico e conta com aproximadamente 37 milhões de habitantes. A Oceania conta com 14 países e é conhecida por ser um dos melhores continentes do mundo para viver.",
+      "countriesAmount": 14,
+      "languagesAmount": 18,
+      "cities": [
+        {
+          "label": "Sydney",
+          "image": "https://images.unsplash.com/photo-1612953293239-4befdc359b72?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "AU",
+            "label": "Austrália"
+          }
+        },
+        {
+          "label": "Melbourne",
+          "image": "https://images.unsplash.com/photo-1545405197-2964efafb2c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "AU",
+            "label": "Austrália"
+          }
+        },
+        {
+          "label": "Auckland",
+          "image": "https://images.unsplash.com/photo-1507699622108-4be3abd695ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "NZ",
+            "label": "Nova Zelândia"
+          }
+        },
+        {
+          "label": "Brisbane",
+          "image": "https://images.unsplash.com/photo-1566734904496-9309bb1798ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "AU",
+            "label": "Austrália"
+          }
+        },
+        {
+          "label": "Perth",
+          "image": "https://images.unsplash.com/photo-1596826063323-9a60b8d11e72?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "AU",
+            "label": "Austrália"
+          }
+        },
+        {
+          "label": "Adelaide",
+          "image": "https://images.unsplash.com/photo-1597058342663-4130321d69aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "AU",
+            "label": "Austrália"
+          }
+        },
+        {
+          "label": "Camberra",
+          "image": "https://images.unsplash.com/photo-1510546020578-a35ae9fcfb0f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "AU",
+            "label": "Austrália"
+          }
+        },
+        {
+          "label": "Port Moresby",
+          "image": "https://images.unsplash.com/photo-1629338208836-c7cb2f0dbcae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "PG",
+            "label": "Papua-Nova Guiné"
+          }
+        },
+        {
+          "label": "Suva",
+          "image": "https://images.unsplash.com/photo-1449347206122-792f0e389512?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "FJ",
+            "label": "Fiji"
+          }
+        },
+        {
+          "label": "Apia",
+          "image": "https://images.unsplash.com/photo-1572397404496-47fc1f51e515?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "WS",
+            "label": "Samoa"
+          }
+        },
+        {
+          "label": "Gold Coast",
+          "image": "https://images.unsplash.com/photo-1607309843659-f4ad95cf3277?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "AU",
+            "label": "Austrália"
+          }
+        },
+        {
+          "label": "Wellington",
+          "image": "https://images.unsplash.com/photo-1589871973318-9ca1258faa5d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80",
+          "country": {
+            "code": "NZ",
+            "label": "Nova Zelândia"
+          }
+        }
+      ]
+    }
+  ]
+  
